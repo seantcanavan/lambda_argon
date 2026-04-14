@@ -1,6 +1,6 @@
 module github.com/seantcanavan/lambda_argon
 
-go 1.18
+go 1.26.1
 
 require (
 	github.com/jgroeneveld/trial v2.0.0+incompatible
